@@ -89,9 +89,8 @@ int main(int argc, char **argv) {
         },
         // TODO: 分析 problems[1] 中资源的生命周期，将记录填入 `std::vector`
         {
-            "ffr",
             "d",
-            "f"
+            "ffr",
         },
         {
             "r",
