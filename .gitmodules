@@ -4,3 +4,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://ghproxy.cn/https://github.com/phial3/rustlings.git
+[submodule "exams"]
+	path = exams
+	url = https://ghproxy.cn/https://github.com/phial3/exams.git
