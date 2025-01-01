@@ -1,0 +1,6 @@
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://ghproxy.cn/https://github.com/phial3/learning-cxx.git
+[submodule "rustlings"]
+	path = rustlings
+	url = https://ghproxy.cn/https://github.com/phial3/rustlings.git
