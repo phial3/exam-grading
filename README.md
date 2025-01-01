@@ -18,6 +18,8 @@ cxx 习题: https://github.com/LearningInfiniTensor/learning-cxx
 
 ## Rustlings
 
+Rust 文档网：https://rustwiki.org/docs/
+
 https://github.com/rust-lang/rustlings
 
 ## 训练营
