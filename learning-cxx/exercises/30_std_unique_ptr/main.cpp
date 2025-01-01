@@ -83,19 +83,19 @@ int main(int argc, char **argv) {
 
     // ---- 不要修改以上代码 ----
 
+    // TODO: 分析 problems[1] 中资源的生命周期，将记录填入 `std::vector`
     std::vector<const char *> answers[]{
         {
             "fd",
         },
-        // TODO: 分析 problems[1] 中资源的生命周期，将记录填入 `std::vector`
         {
             "d",
             "ffr",
         },
         {
+            "d",
+            "d",
             "r",
-            "d",
-            "d",
         },
     };
 
