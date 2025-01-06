@@ -7,4 +7,5 @@
 **/*.rs.bk
 **/*/debug/
 **/*/target/
-
+target/
+Cargo.lock

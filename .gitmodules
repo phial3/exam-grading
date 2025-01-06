@@ -1,3 +1,6 @@
 [submodule "exams"]
 	path = exams
 	url = https://ghproxy.cn/https://github.com/phial3/exams.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = https://github.com/phial3/learning-lm-rs.git
